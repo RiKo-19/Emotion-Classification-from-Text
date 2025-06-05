@@ -45,4 +45,9 @@ Install the required libraries using:
 
 ```bash
 pip install streamlit scikit-learn pandas numpy matplotlib seaborn
+```
+
+---
+
+## 🖥️ User Interface
 
