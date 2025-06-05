@@ -51,3 +51,4 @@ pip install streamlit scikit-learn pandas numpy matplotlib seaborn
 
 ## 🖥️ User Interface
 
+![Image](https://github.com/user-attachments/assets/3d2a0533-add3-4e1d-8ef0-1c39c1ad7ea0)
