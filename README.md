@@ -52,3 +52,11 @@ pip install streamlit scikit-learn pandas numpy matplotlib seaborn
 ## 🖥️ User Interface
 
 ![Image](https://github.com/user-attachments/assets/3d2a0533-add3-4e1d-8ef0-1c39c1ad7ea0)
+
+---
+
+## 📊 Confusion Matrix Visualization and Accuracy Score
+
+![Image](https://github.com/user-attachments/assets/059b3e4e-0397-4de2-9490-33667269cf50)
+
+Accuracy Score - 0.887 / 88.7%
