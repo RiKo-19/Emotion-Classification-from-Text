@@ -1,4 +1,4 @@
-# Emotion Classification from Text 🧠
+# Emotion Classification from Text
 
 This project is a web-based application that predicts the emotion expressed in a given text. It uses a machine learning model (SVM) trained on labeled emotional text data and is deployed using Streamlit for a simple and interactive user interface.
 
