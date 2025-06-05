@@ -59,4 +59,4 @@ pip install streamlit scikit-learn pandas numpy matplotlib seaborn
 
 ![Image](https://github.com/user-attachments/assets/059b3e4e-0397-4de2-9490-33667269cf50)
 
-Accuracy Score - 0.887 / 88.7%
+**Accuracy Score** - 0.887 / 88.7%
