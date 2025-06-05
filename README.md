@@ -17,7 +17,7 @@ I take a dataset from Huggingface that is used for training of the model. And it
 - Love
 - Surprise
 
-This dataset enables the model to learn how different emotions are expressed through language.
+This dataset enables the model to learn how different emotions are expressed through texts.
 
 ---
 
