@@ -8,7 +8,7 @@ You can check the webpage through this link - https://emotion-classification-fro
 
 ## 📊 Dataset Used
 
-I take a dataset from Huggingface that is used for training of the model. And it includes sentences labeled with one of the following six emotions:
+I used a dataset from Hugging Face for training the model. It includes sentences labeled with one of the following six emotions:
 
 - Joy
 - Sadness
@@ -25,12 +25,12 @@ This dataset enables the model to learn how different emotions are expressed thr
 
 1. **Text Preprocessing**: The input text is converted into numerical form using `TfidfVectorizer`, which captures important word-level features.
 
-2. **Model Training**: I use SVM classifier to train the model using this vectorized text and corresponding emotion labels.
+2. **Model Training**: I use an SVM classifier to train the model using this vectorized text and corresponding emotion labels.
 
 3. **Model Deployment**:
    - The trained model and vectorizer are serialized using `pickle`.
-   - These are loaded in a `Streamlit` app and create a webpage where users can enter their text and receive a predicted emotion in real-time.
-
+   - They are loaded into a `Streamlit` app that creates a webpage where users can enter text and receive a predicted emotion in real-time.
+     
 ---
 
 ## 📦 Dependencies
